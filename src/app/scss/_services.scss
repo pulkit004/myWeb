@@ -1,5 +1,7 @@
 .services{
     position: relative;
+    margin-top: 80px;
+    margin-bottom: 120px;
     .circle{
         background: #ECF9FF;
         height: 100px;
@@ -26,5 +28,6 @@
     .card-header{
         height: 120px;
         background: transparent;
+        border-bottom: 0;
     }
 }

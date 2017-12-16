@@ -1,9 +1,10 @@
 @import "typography";
 @import "landingPage";
 @import "services";
+@import "portfolio";
+
 
 body{
-   
     background-color: transparent;
 }
 .jumbotron{
@@ -12,5 +13,6 @@ body{
 }
 .card{
     background: transparent;
+    border: none;
 }
 
