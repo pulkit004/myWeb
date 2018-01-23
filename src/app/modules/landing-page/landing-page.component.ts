@@ -10,7 +10,7 @@ export class LandingPageComponent implements OnInit {
   Intro: string = `
   
    Hey, glad you are here. Well a little intro about me. 
-   I am a front-end engineer by profession with the core focus on UI/UX and Research. 
+   I am a front-end and UI/UX developer by profession with the core focus on UI/UX and Research. 
    I am a freelancer too doing projects in my free time.
   
   `;

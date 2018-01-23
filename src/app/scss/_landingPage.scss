@@ -1,0 +1,19 @@
+.cover{
+  img{
+    height: 350px;
+    width: 350px;
+  }
+}
+
+
+
+@media(max-width: 720px){
+  .cover{
+  img{
+    height: 250px;
+    width: 250px;
+    margin-bottom: 20px;
+  }
+}
+
+} 
