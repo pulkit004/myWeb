@@ -1,7 +1,7 @@
 .cover{
   img{
-    height: 350px;
-    width: 350px;
+    height: 300px;
+    width: 300px;
   }
 }
 
@@ -10,8 +10,8 @@
 @media(max-width: 720px){
   .cover{
   img{
-    height: 250px;
-    width: 250px;
+    height: 200px;
+    width: 200px;
     margin-bottom: 20px;
   }
 }
