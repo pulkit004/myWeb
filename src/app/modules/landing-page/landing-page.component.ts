@@ -35,9 +35,9 @@ export class LandingPageComponent implements OnInit {
 
 
   startupTalker: string = `
-  I love to interact with new startups. If you some solid idea that can create an impact,
+  I love to interact with new startups. If you have some solid idea that can create an impact,
   let's have a cup of coffee.
-  Ping me or mail me and I will reach you out by myself.
+  Ping me or mail me and I will reach out to you by myself.
   `;
 
 
@@ -53,7 +53,7 @@ export class LandingPageComponent implements OnInit {
   
   My mojo is to Design and Develop.
 
-  I am very much into user experience research and psychology of interaction of a user with the web/mobile app. This is how I roll!
+  I am very much into user experience research and psychology of interaction of a user with the web/mobile app. That's how I roll!
 
   `;
 
